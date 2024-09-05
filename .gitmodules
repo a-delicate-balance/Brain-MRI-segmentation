@@ -1,3 +1,3 @@
 [submodule "OASIS-dataset"]
 	path = OASIS-dataset
-	url = git@github.com:a-delicate-balance/OASIS-dataset.git
+	url = https://github.com/a-delicate-balance/OASIS-dataset.git
