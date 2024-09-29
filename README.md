@@ -6,7 +6,7 @@ This is a project exploring methods of segmentation of MRI images for extracting
 git clone https://github.com/a-delicate-balance/Brain-MRI-segmentation
 cd Brain-MRI-segmentation
 ```
-Open the python notebook in your preferred notebook.
+Open the python notebook in your preferred jupyter notebook software.
 
 ## Roadmap
 1. Apply U-Net to OASIS MRI dataset.
@@ -15,3 +15,11 @@ Open the python notebook in your preferred notebook.
 
 ## Contributing
 This is a project with contributions from my team, thus, this project will not accept merge requests.
+
+### Team
+|Member                |Github    |
+|-                     |-         |
+|Piyush Goyal          |[@PIYUSH-GOYAL1](https://github.com/PIYUSH-GOYAL1)|
+|Sanidhya Shyam Sagar  |[@Sanidhya-sagar](https://github.com/Sanidhya-sagar)|
+|Parth                 |[@a-delicate-balance](https://github.com/a-delicate-balance)|
+|Paras                 |[@paras28-05](https://github.com/paras28-05)|
